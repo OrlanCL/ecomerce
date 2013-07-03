@@ -1,0 +1,1 @@
+<p style="background-color:lightgreen;padding: 10px 10px 10px 15px;">Se ha eliminado el registro.</p>
